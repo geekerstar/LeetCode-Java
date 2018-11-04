@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1557960-8df3-465a-8392-70efcb2233ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1557960-8df3-465a-8392-70efcb2233ce" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,27 +23,27 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="10" />
-          <entry key="md" value="8" />
+          <entry key="java" value="11" />
+          <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="10" />
-          <entry key="Markdown" value="8" />
+          <entry key="JAVA" value="11" />
+          <entry key="Markdown" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="99" />
+          <entry key="java" value="100" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="100" />
+          <entry key="JAVA" value="101" />
         </counts>
       </usages-collector>
     </session>
@@ -53,10 +51,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s347/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s451/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+            <state relative-caret-position="30">
+              <caret line="7" selection-start-line="7" selection-end-line="34" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,6 +101,8 @@
         <option value="$PROJECT_DIR$/src/com/geekerstar/s215/Kth Largest Element in an Array (Medium).md" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s215/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s347/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s347/Top K Frequent Elements (Medium).md" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s451/Solution.java" />
       </list>
     </option>
   </component>
@@ -158,13 +158,6 @@
             </path>
             <path>
               <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="geekerstar" type="462c0819:PsiDirectoryNode" />
-              <item name="s347" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -208,15 +201,16 @@
       <workItem from="1540888644994" duration="977000" />
       <workItem from="1540969631867" duration="1000000" />
       <workItem from="1540975390035" duration="153000" />
-      <workItem from="1541301033295" duration="291000" />
+      <workItem from="1541301033295" duration="472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3103000" />
+    <option name="totallyTimeSpent" value="3284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="402" y="63" width="1159" height="907" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2676813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -404,10 +398,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s347/Top K Frequent Elements (Medium).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="467">
+            <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s347/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s451/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="7" selection-start-line="7" selection-end-line="34" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
