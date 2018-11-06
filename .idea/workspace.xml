@@ -13,7 +13,7 @@
     <session id="1502370752">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.opened" value="6" />
@@ -24,7 +24,7 @@
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
           <entry key="java" value="11" />
-          <entry key="md" value="9" />
+          <entry key="md" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -32,7 +32,7 @@
           <entry key="Git file" value="1" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="11" />
-          <entry key="Markdown" value="9" />
+          <entry key="Markdown" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -49,20 +49,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s451/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="7" selection-start-line="7" selection-end-line="34" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -103,6 +90,7 @@
         <option value="$PROJECT_DIR$/src/com/geekerstar/s347/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s347/Top K Frequent Elements (Medium).md" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s451/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s451/Sort Characters By Frequency (Medium).md" />
       </list>
     </option>
   </component>
@@ -123,8 +111,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="402" />
-    <option name="y" value="63" />
+    <option name="x" value="398" />
+    <option name="y" value="62" />
     <option name="width" value="1159" />
     <option name="height" value="907" />
   </component>
@@ -201,18 +189,17 @@
       <workItem from="1540888644994" duration="977000" />
       <workItem from="1540969631867" duration="1000000" />
       <workItem from="1540975390035" duration="153000" />
-      <workItem from="1541301033295" duration="472000" />
+      <workItem from="1541301033295" duration="671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3284000" />
+    <option name="totallyTimeSpent" value="3483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="402" y="63" width="1159" height="907" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2676813" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2676813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -227,7 +214,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32883435" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32883435" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -418,10 +405,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s451/Sort Characters By Frequency (Medium).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="467">
+            <caret line="66" column="3" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s451/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="7" selection-start-line="7" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="420">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
