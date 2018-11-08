@@ -25,44 +25,44 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="18" />
-          <entry key="md" value="17" />
+          <entry key="java" value="19" />
+          <entry key="md" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="18" />
-          <entry key="Markdown" value="17" />
+          <entry key="JAVA" value="19" />
+          <entry key="Markdown" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="118" />
+          <entry key="java" value="120" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="119" />
+          <entry key="JAVA" value="121" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s605/Solution.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s392/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <caret line="2" selection-start-line="2" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s605/种花问题.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s392/判断是否为子序列.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -125,6 +125,9 @@
         <option value="$PROJECT_DIR$/src/com/geekerstar/s406/根据身高和序号重排序.md" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s763/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s763/划分字母空间.md" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s605/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s605/种花问题.md" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s392/Solution.java" />
       </list>
     </option>
   </component>
@@ -145,8 +148,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="398" />
-    <option name="y" value="62" />
+    <option name="x" value="489" />
+    <option name="y" value="63" />
     <option name="width" value="1159" />
     <option name="height" value="907" />
   </component>
@@ -229,15 +232,15 @@
       <workItem from="1541301033295" duration="671000" />
       <workItem from="1541470861576" duration="2294000" />
       <workItem from="1541658918639" duration="14000" />
-      <workItem from="1541676504774" duration="348000" />
+      <workItem from="1541676504774" duration="560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6139000" />
+    <option name="totallyTimeSpent" value="6351000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="398" y="62" width="1159" height="907" extended-state="0" />
+    <frame x="489" y="63" width="1159" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2811101" />
@@ -588,7 +591,9 @@
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s605/种花问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="660">
+            <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -596,7 +601,22 @@
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s605/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s392/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s392/判断是否为子序列.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
