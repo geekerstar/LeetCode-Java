@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1557960-8df3-465a-8392-70efcb2233ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1557960-8df3-465a-8392-70efcb2233ce" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,27 +25,27 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="24" />
-          <entry key="md" value="23" />
+          <entry key="java" value="25" />
+          <entry key="md" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="24" />
-          <entry key="Markdown" value="23" />
+          <entry key="JAVA" value="25" />
+          <entry key="Markdown" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="125" />
+          <entry key="java" value="126" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="126" />
+          <entry key="JAVA" value="127" />
         </counts>
       </usages-collector>
     </session>
@@ -55,16 +53,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s744/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/x的平方根.md">
+        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s744/寻找比目标字母大的最小字母.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -140,6 +138,8 @@
         <option value="$PROJECT_DIR$/src/com/geekerstar/s121/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s121/买入和售出股票最大的收益.md" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s69/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s69/x的平方根.md" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s744/Solution.java" />
       </list>
     </option>
   </component>
@@ -245,12 +245,12 @@
       <workItem from="1541470861576" duration="2294000" />
       <workItem from="1541658918639" duration="14000" />
       <workItem from="1541676504774" duration="1383000" />
-      <workItem from="1541748778758" duration="253000" />
+      <workItem from="1541748778758" duration="381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7427000" />
+    <option name="totallyTimeSpent" value="7555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="489" y="57" width="1159" height="907" extended-state="0" />
@@ -707,7 +707,9 @@
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/x的平方根.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="765">
+            <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -716,6 +718,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s744/寻找比目标字母大的最小字母.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s744/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
