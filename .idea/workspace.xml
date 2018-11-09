@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1557960-8df3-465a-8392-70efcb2233ce" name="Default Changelist" comment="" />
+    <list default="true" id="d1557960-8df3-465a-8392-70efcb2233ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,60 +15,60 @@
     <session id="1502370752">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="23" />
-          <entry key="md" value="22" />
+          <entry key="java" value="24" />
+          <entry key="md" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="23" />
-          <entry key="Markdown" value="22" />
+          <entry key="JAVA" value="24" />
+          <entry key="Markdown" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="123" />
+          <entry key="java" value="125" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="124" />
+          <entry key="JAVA" value="126" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s121/买入和售出股票最大的收益.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s121/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/x的平方根.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -135,6 +137,9 @@
         <option value="$PROJECT_DIR$/src/com/geekerstar/s122/股票的最大收益.md" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s53/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/geekerstar/s53/最大子序和.md" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s121/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s121/买入和售出股票最大的收益.md" />
+        <option value="$PROJECT_DIR$/src/com/geekerstar/s69/Solution.java" />
       </list>
     </option>
   </component>
@@ -156,7 +161,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="489" />
-    <option name="y" value="63" />
+    <option name="y" value="57" />
     <option name="width" value="1159" />
     <option name="height" value="907" />
   </component>
@@ -168,8 +173,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,24 +244,24 @@
       <workItem from="1541301033295" duration="671000" />
       <workItem from="1541470861576" duration="2294000" />
       <workItem from="1541658918639" duration="14000" />
-      <workItem from="1541676504774" duration="1238000" />
+      <workItem from="1541676504774" duration="1383000" />
+      <workItem from="1541748778758" duration="253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7029000" />
+    <option name="totallyTimeSpent" value="7427000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="489" y="63" width="1159" height="907" extended-state="0" />
+    <frame x="489" y="57" width="1159" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2811101" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2855864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="JRebel" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -271,6 +276,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -684,7 +690,9 @@
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s121/买入和售出股票最大的收益.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="453">
+            <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
@@ -692,7 +700,22 @@
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s121/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="2" selection-start-line="2" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/x的平方根.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
