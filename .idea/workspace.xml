@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1557960-8df3-465a-8392-70efcb2233ce" name="Default Changelist" comment="" />
+    <list default="true" id="d1557960-8df3-465a-8392-70efcb2233ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +15,12 @@
     <session id="1502370752">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -26,7 +28,7 @@
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
           <entry key="java" value="26" />
-          <entry key="md" value="25" />
+          <entry key="md" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -36,6 +38,7 @@
           <entry key="JAVA" value="26" />
           <entry key="Markdown" value="24" />
           <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Specification" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -53,20 +56,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s540/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s540/有序数组的single element.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s278/第一个错误的版本.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -163,8 +160,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="489" />
-    <option name="y" value="57" />
+    <option name="x" value="386" />
+    <option name="y" value="23" />
     <option name="width" value="1159" />
     <option name="height" value="907" />
   </component>
@@ -176,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -201,7 +197,7 @@
               <item name="LeetCode-Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="geekerstar" type="462c0819:PsiDirectoryNode" />
-              <item name="s540" type="462c0819:PsiDirectoryNode" />
+              <item name="s278" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode-Java" type="b2602c69:ProjectViewProjectNode" />
@@ -211,6 +207,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,7 +219,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -255,17 +252,19 @@
       <workItem from="1541470861576" duration="2294000" />
       <workItem from="1541658918639" duration="14000" />
       <workItem from="1541676504774" duration="1383000" />
-      <workItem from="1541748778758" duration="590000" />
+      <workItem from="1541748778758" duration="644000" />
+      <workItem from="1541942330370" duration="180000" />
+      <workItem from="1541942525374" duration="55000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7764000" />
+    <option name="totallyTimeSpent" value="8053000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="489" y="57" width="1159" height="907" extended-state="0" />
+    <frame x="386" y="23" width="1159" height="907" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2855864" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2838654" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -281,7 +280,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Statistic" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32883435" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3277512" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
@@ -302,16 +301,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s167/Two Sum II - Input array is sorted (Easy).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s167/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -319,16 +308,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s633/Sum of Square Numbers (Easy).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s633/Sum of Square Numbers (Easy).md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s633/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -336,16 +316,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s345/Reverse Vowels of a String (Easy).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="452">
-            <caret line="37" column="1" lean-forward="true" selection-start-line="17" selection-end-line="37" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s345/Reverse Vowels of a String (Easy).md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s345/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -360,26 +331,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s680/Valid Palindrome II (Easy).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s88/Merge Sorted Array (Easy).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s680/Valid Palindrome II (Easy).md" />
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s88/Merge Sorted Array (Easy).md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s88/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -387,16 +340,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s141/Linked List Cycle (Easy).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s141/Linked List Cycle (Easy).md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s524/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -411,16 +355,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s524/Longest Word in Dictionary through Deleting (Medium).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="378">
-            <caret line="51" column="1" lean-forward="true" selection-start-line="26" selection-end-line="51" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s524/Longest Word in Dictionary through Deleting (Medium).md" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Boolean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -428,16 +363,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s215/Kth Largest Element in an Array (Medium).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s215/Kth Largest Element in an Array (Medium).md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s215/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -445,16 +371,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s347/Top K Frequent Elements (Medium).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="467">
-            <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s347/Top K Frequent Elements (Medium).md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s347/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -465,16 +382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s451/Sort Characters By Frequency (Medium).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="467">
-            <caret line="66" column="3" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s451/Sort Characters By Frequency (Medium).md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s451/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -485,16 +393,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s75/颜色分类.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s75/颜色分类.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s75/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -502,16 +401,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s455/分发饼干.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="542">
-            <caret line="50" selection-start-line="50" selection-end-line="50" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s455/分发饼干.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s455/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -519,16 +409,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s435/无重叠区间.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1515">
-            <caret line="88" column="3" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s435/无重叠区间.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s435/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
@@ -539,16 +420,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s452/用最少数量的箭引爆气球.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="825">
-            <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s452/用最少数量的箭引爆气球.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s452/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -559,16 +431,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s406/根据身高和序号重排序.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="407">
-            <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s406/根据身高和序号重排序.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s406/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -579,16 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s763/划分字母空间.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="855">
-            <caret line="46" selection-start-line="46" selection-end-line="46" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s763/划分字母空间.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s763/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -601,16 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s605/种花问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="660">
-            <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s605/种花问题.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s605/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -618,16 +463,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s392/判断是否为子序列.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="512">
-            <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s392/判断是否为子序列.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s392/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -642,26 +478,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s665/修改一个数成为非递减数组.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="429">
-            <caret line="40" column="3" selection-start-line="40" selection-start-column="3" selection-end-line="40" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s122/股票的最大收益.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="945">
-            <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s665/修改一个数成为非递减数组.md" />
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s122/股票的最大收益.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s122/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -669,16 +487,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s53/最大子序和.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s53/最大子序和.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s53/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -686,16 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s121/买入和售出股票最大的收益.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="453">
-            <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s121/买入和售出股票最大的收益.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s121/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -703,16 +503,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/x的平方根.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="765">
-            <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/x的平方根.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s69/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -720,20 +511,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s744/寻找比目标字母大的最小字母.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="930">
-            <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s744/寻找比目标字母大的最小字母.md" />
     <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s744/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s540/有序数组的single element.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -744,10 +533,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s540/有序数组的single element.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+    <entry file="file://$PROJECT_DIR$/src/com/geekerstar/s278/第一个错误的版本.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
