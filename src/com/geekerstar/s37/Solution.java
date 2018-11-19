@@ -8,7 +8,7 @@ public class Solution {
 
     public void solveSudoku(char[][] board) {
         this.board = board;
-        for (int i = 0; i < 9; i++)
+        for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
                 if (board[i][j] == '.') {
                     continue;
@@ -18,7 +18,7 @@ public class Solution {
                 colsUsed[j][num] = true;
                 cubesUsed[cubeNum(i, j)][num] = true;
             }
-
+        }
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
                 backtracking(i, j);
